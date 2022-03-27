@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Sign in</title>
+  <style>
+     div {
+       text-align:center;
+       font-family:comic sans MS;
+     }     
+     p {
+       font-size:150%;
+       margin: 20px;
+     }      
+     button {
+       padding:10px 15px;
+       color:white;
+       font-family:comic sans MS;
+       background-color:RoyalBlue;    
+       border-radius:8px;
+     }
+     button:hover {
+       padding:10px 15px;
+       color:white;
+       font-family:comic sans MS;
+       background-color:rgba(0,0,205,0.8);    
+       border-radius:8px;
+     }
+     input[type=text]{
+       padding:3px;
+       border-radius:3px;
+     }
+  </style>
+ </head>
+<body style=background-color:rgba(200,220,255,0.3);>
+  <div>
+   <form style=border:dotted;padding-bottom:8px;border-color:rgba(40,40,40,0.5);>   
+    <h1>Sign in</h1>
+    <p>name: <input type="text" name="name" value="" placeholder="Your name"><img src="https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_960_720.jpg" alt="forest.jpg" style=float:right; width="350"></p>
+    <p>e-mail: <input type="text" name="email" value="" placeholder="E-mail"></p>
+    <p>phone: <input type="text" name="phone" value="" placeholder="Phone number"></p>
+    <p>password: <input type="text" name="password" value="" placeholder="Passward"></p>
+    <br>
+    <p style=font-size:100%;><input type="checkbox" name="agree"> I agree all statements in <a href="#">Terms of service</a></p>
+    <button class="primary">Submit</button>
+   </form> 
+  </div>
+</body>
+</html>
