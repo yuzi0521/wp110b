@@ -11,14 +11,10 @@
  <h1>該程式碼為原創，js的元件概念部分取自w3schools</h1>  
  
 <h1>功能介紹：</h1>  
-    1. 點擊左上的REAMED擊可跳到github中的README頁面:
-    ![README](https://github.com/yuzi0521/wp110b/blob/master/picture/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/Inked%E7%AF%84%E4%BE%8B1.jpg)
-        
-    2. 點擊跳到我的作品    
-    ![content] (https://github.com/yuzi0521/wp110b/blob/master/picture/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/Inked%E7%AF%84%E4%BE%8B1-1.jpg)
-    3.點擊按鈕回前一頁    
-    ![回前一頁] (https://github.com/yuzi0521/wp110b/blob/master/picture/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/Inked%E7%AF%84%E4%BE%8B2.jpg)
-    4.手動點時間    
-    ![時間按鈕] (https://github.com/yuzi0521/wp110b/blob/master/picture/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/Inked%E7%AF%84%E4%BE%8B2-2.jpg)
-    如下圖  
-    ![時間] (https://github.com/yuzi0521/wp110b/blob/master/picture/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/%E7%AF%84%E4%BE%8B3.jpg)
+    1. 點擊左上的REAMED可跳到github中的README頁面:
+    2. 點擊content跳到我的作品    
+    3.點擊go back按鈕回前一頁    
+    4.手動點時間，會跳出時間，但要手動更新  
+<h1>展示</h1>
+    ![圖1]()
+    
