@@ -18,6 +18,6 @@
     5.點擊下方三個社群的圖可跳轉到我的社群頁面
  </pre>
 <h1>展示圖</h1>  
-    請點以下連結
-    [圖一](https://github.com/yuzi0521/wp110b/blob/master/HW/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/myself/%E4%BD%9C%E5%93%81%E5%9C%96.jpg) 
-    [圖二](https://github.com/yuzi0521/wp110b/blob/master/HW/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/myself/%E4%BD%9C%E5%93%812.jpg)     
+    請點以下連結謝謝:  
+    https://github.com/yuzi0521/wp110b/blob/master/HW/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/myself/%E4%BD%9C%E5%93%81%E5%9C%96.jpg  
+    https://github.com/yuzi0521/wp110b/blob/master/HW/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/myself/%E4%BD%9C%E5%93%812.jpg    
