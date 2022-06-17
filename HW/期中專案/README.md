@@ -2,6 +2,7 @@
 |---|---|---|
 |<b>參考來源：</b>|https://www.w3schools.com/ |  
 |<b>圖片來源:</b>|   
+|頭像的圖|我自己畫的|軟體：小畫家|
 |fb圖像|https://icons8.com/icons/set/facebook|
 |ig圖像|https://icons8.com/icons/set/ig|
 |github圖像|https://icons8.com/icons/set/github| 
