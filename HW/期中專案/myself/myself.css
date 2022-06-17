@@ -1,0 +1,23 @@
+body {
+            background-color: rgb(199, 231, 242);
+            font-family:"Lucida Console", "Courier New", monospace;
+            
+      }
+      .text {
+        text-align:center;
+      }
+      #slide{
+        width:auto;
+        position: absolute;
+        left:80%;
+        right:10%;
+        transform: translate(-25%,3000%);
+        overflow:hidden;
+      }
+      button{
+        background-color:rgb(127, 174, 241);
+        color:white;
+      }
+      button:hover{
+        background-color:rgb(47, 113, 205);
+      }
