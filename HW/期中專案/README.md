@@ -16,5 +16,5 @@
     3.點擊go back按鈕回前一頁    
     4.手動點時間，會跳出時間，但要手動更新  
 <h1>展示</h1>
-    ![圖1]()
+    ![圖1](https://github.com/yuzi0521/wp110b/blob/master/HW/%E6%9C%9F%E4%B8%AD%E5%B0%88%E6%A1%88/myself/%E4%BD%9C%E5%93%812.jpg)
     
